@@ -26,7 +26,7 @@ Old users are recommended to the same to keep this script functioning.
 
 3. Download the latest release:
    - 💻 Windows: [TalkToWeb-Win.zip](https://github.com/iCaran/TalkToWeb/releases/download/v1.0.0/TalkToWeb-Win.zip) ↗
-   - 🐧 Linux: Webchat.tar.xz (coming soon) ↗
+   - 🐧 Linux: [TalkToWeb-Lin.tar.xz](https://github.com/iCaran/TalkToWeb/releases/download/v1.0.0/TalkToWeb-Lin.tar.xz) ↗
 
 4. Extract and run the setup script:
    - Windows: Double-click `setup.bat`
