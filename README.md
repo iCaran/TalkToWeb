@@ -1,4 +1,7 @@
-# 💬 Chat with Web!
+# Archived!!!
+Since Bard has been replaced by Gemini and one can now use ChatGPT and other tools for free to summarize and chat with articles
+---
+## 💬 Chat with Web!
 
 #### A tool for you to go beyond just reading articles or websites.
 
